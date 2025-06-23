@@ -25,7 +25,7 @@
 
 <h3 align="left">LeetCode Graph Stats:</h3>
 <p align="center">
-    <img src="https://leetcard.jacoblin.cool/aMan_SingH_2307?theme=dark&font=Algerian&ext=heatmap&category=graph" alt="Graph Stats" />
+    <img src="https://leetcard.jacoblin.cool/aMAn_230725?theme=dark&font=Algerian&ext=heatmap&category=graph" alt="Graph Stats" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thakuraman23&show_icons=true&locale=en&layout=compact" alt="thakuraman23" /></p>
